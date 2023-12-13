@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "nextjs-dashboard",
+            "connectString": "postgres://default:PH7BqguLp2SR@ep-steep-sky-50292028-pooler.us-east-1.postgres.vercel-storage.com:5432/verceldb"
+        }
+    ]
+}
